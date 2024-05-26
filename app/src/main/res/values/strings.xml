@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tokoonline</string>
+    <string name="rightAddress">The Right Address\nFor Shopping\nAny day</string>
+    <string name="tvQuality">It\'s now very easy to reach tho\nbest quality among all the\nproducts on the internet</string>
+    <string name="start">Start</string>
+    <string name="register_button">Register</string>
+    <string name="button_login">Login</string>
+</resources>
