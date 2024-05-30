@@ -79,3 +79,5 @@ fastlane/test_output
 
 # Kotlin
 *.kotlin_module
+
+google-services.json
